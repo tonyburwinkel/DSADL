@@ -4,14 +4,13 @@ requirements.txt contains all python dependencies:
 
 	pip3 install -r requirements.txt
 
-on a linux system, wkhtmltopdf must be installed via apt:
+on a debian based linux system, wkhtmltopdf must be installed via apt:
 	
 	sudo apt install wkhtmltopdf
 
 on macos (requires homebrew):
 
 	brew install homebrew/cask/wkhtmltopdf
-
 
 once all dependencies are installed, simply run
 
